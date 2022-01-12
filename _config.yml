@@ -1,9 +1,9 @@
 # Site settings
-course_name: CSL7070 Computer Architecture
-course_description: "In this course we shall learn the basic principles of computer architectures. Computer architecture is the science and art of selecting and interconnecting hardware components to create a computer that meets functional, performance and cost goals. This course introduces the basic hardware structure of a modern programmable computer, including the basic laws underlying performance evaluation."
+course_name: CSL1010 Introduction to Computer Science
+course_description: "This subject is aimed at students with little or no programming experience. It aims to provide students with an understanding of the role computation can play in solving problems. It also aims to help students, regardless of their major, to feel justifiably confident of their ability to write small programs that allow them to accomplish useful goals. The class will use the Python™ programming language." 
 course_semester: "Semester II: 2021-22"
 
-baseurl: "/wi22-csl7070" # the subpath of your site, e.g. /blog/
+baseurl: "/wi22-csl1010" # the subpath of your site, e.g. /blog/
 url: "http://dipsankarb.github.io/" # the base hostname & protocol for your site
 
 schoolname: "Department of CSE, IIT Jodhpur"
